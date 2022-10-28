@@ -1,0 +1,5 @@
+test/log Fri Oct 28 19:24:35 2022: Hello, World!
+test/log Fri Oct 28 19:24:45 2022: This is an example message sent over MQTT
+test/log Fri Oct 28 19:25:03 2022: Typing anything in here sends it to the receiver which will log it
+test/log Fri Oct 28 19:25:17 2022: I will now close down the receiver.
+test/log Fri Oct 28 19:25:19 2022: END
